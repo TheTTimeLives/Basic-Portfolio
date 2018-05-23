@@ -1,0 +1,59 @@
+#pageheader{
+   
+    
+
+}
+
+#topbar{
+    width: 3000px;
+    height:50px;
+    background-color: rgb(34, 185, 59);
+    right: 40px;
+    z-index: 2;
+    
+    
+
+}
+
+#bgimage{
+    background-image: url(../images/white-linen-paper-texture.jpg);
+}
+
+#bodyformatting{
+    
+    margin: 0 15%;
+    
+}
+
+#secondheader{
+    color: rgb(153, 182, 221);
+}
+
+#whitebox{
+    background-color: rgb(255, 0, 0);
+    margin: 25px 10px 30px 20px;
+}
+
+#profilepic{
+    position:relative;
+    float:left;
+    height:25%;
+    width:25%;
+    padding: 1% 1%;
+    
+}
+
+#pformat
+{
+    margin: 0 0;
+}
+
+clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+    }
+
+#backgroundimage{
+    background-image: url(../images/white-linen-paper-texture.jpg);
+}

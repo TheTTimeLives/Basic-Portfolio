@@ -53,11 +53,15 @@
     
 }
 
+#margin{
+    margin:10px;
+}
+
 #pagelinks{
     text-decoration:none;
      color:#777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    margin:10px;
+    margin:0px;
     
     
         
@@ -66,7 +70,7 @@
 #pagelinksb{
      color:#777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    margin:10px;
+    margin:0px;
     
     
         
@@ -75,7 +79,7 @@
 #pagelinksc{
     color:#777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    margin:10px;
+    margin:0px;
     
 }
 

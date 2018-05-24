@@ -83,6 +83,12 @@
     
 }
 
+a{
+    text-decoration:none;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     color:#777777;
+}
+
 #pagelinks a:link{
     text-decoration: none;
     color:#777777;
